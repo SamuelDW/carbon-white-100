@@ -1,5 +1,5 @@
 {
-  "name": "carbon-white-100",
+  "name": "@kpopfan4life/carbon-white-100",
   "version": "1.0.0",
   "description": "Light and Dark themes for Carbon",
   "main": "index.scss",
