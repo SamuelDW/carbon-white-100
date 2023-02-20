@@ -1,0 +1,22 @@
+{
+  "name": "carbon-white-100",
+  "version": "1.0.0",
+  "description": "Light and Dark themes for Carbon",
+  "main": "index.scss",
+  "bugs": "https://github.com/SamuelDW/carbon-white-100",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamuelDW/carbon-white-100"
+  },
+  "keywords": [
+    "Carbon",
+    "Dark Theme",
+    "Light Theme",
+    "Carbon White",
+    "Carbon 100",
+    "CSS variables",
+    "small"
+  ],
+  "author": "Samuel Durrant-Walker",
+  "license": "ISC"
+}
